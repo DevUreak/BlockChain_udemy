@@ -1,1 +1,3 @@
-asdasd
+- BlockChain
+- Mining
+- Create Block 
